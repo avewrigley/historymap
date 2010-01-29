@@ -1,0 +1,22 @@
+* {
+    font-family: verdana,sans-serif;
+}
+
+img { border: 0px }
+
+a {
+    text-decoration: none;
+    color: blue;
+}
+
+a:hover {
+    color: red;
+}
+
+#timelinecontainer #timeline { 
+    width: 100%; height: 75px;
+}
+
+#mapcontainer #map { 
+    width: 100%; height: 300px;
+}
